@@ -1,0 +1,5 @@
+db:
+   connectionUrl: "localhost:8731/spring-config-1"
+   port: 3210
+   username: RUSH-spring-config-1-new
+   password: lol-spring-config-1-new
